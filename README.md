@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayyoob rehman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working in [GreenCreon](https://greencreon.com)
+- 🔭 I’m currently working in [Kafaaya](https://kafaaya.com/)
 
 - 🌱 I’m currently learning **Flutter, Dart, Java , Html, Css , Java Script, Git, Go, Php,**
 
